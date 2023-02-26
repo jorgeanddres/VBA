@@ -1,0 +1,12 @@
+table{
+    background-color: rgb(213, 213, 236);
+    text-align: left;
+    border-collapse: separate;
+    border-spacing: 10;
+    width: 97%;
+}
+th, td{
+    border: solid 3px blue;
+    padding: 0%;
+}
+
